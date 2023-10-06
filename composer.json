@@ -1,5 +1,5 @@
 {
-    "name": "emargareten/two-factor-laravel",
+    "name": "laravel-liberu/laravel-two-factor",
     "description": "Two-factor authentication implementation for Laravel applications.",
     "keywords": ["laravel", "2fa", "two-factor-authentication"],
     "license": "MIT",
